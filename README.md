@@ -9,7 +9,7 @@ After 9 incredible years as a nurse, I am embarking on a new chapter as a Data A
 soon
 
 ## Skills  
-- Python, SQL, Tableau, Excel  
+- Python, SQL, Tableau, Excel, Looker Studio, BigQuery
 - Data Analysis, Visualization, and Business Intelligence  
 
 ## Goals  
